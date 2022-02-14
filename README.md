@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blocksailor
-- 👀 I’m interested in ... blockchains, smart contracts, dev, testing, security, operations
+- 👀 I’m interested in ... ethreum ecosystem, blockchains, smart contracts, dev, testing, security, operations
 - 🌱 I’m currently growing skills on ... Solidity, Brownie, Python, Javascript
 - 💞️ I’m looking to collaborate on ... blockchains competitive analysis and testing 
 - 📫 How to reach me ... greg@blocksail.io
